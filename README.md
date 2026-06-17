@@ -17,3 +17,4 @@ MovieLens ml-latest-small：100,836 条评分，9,742 部电影，610 个用户
 - `charts/` — 分析图表
 - `screenshots/` — 运行截图
 - `output/` — 清洗后数据
+- 视频在压缩包里，需要密码
